@@ -1,4 +1,4 @@
 # yadu-first
 This is my first repository.
 <br>
-Author - Yadwinder Singh
+Author - Yadwinder Singh(cu)
